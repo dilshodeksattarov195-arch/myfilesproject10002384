@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepalculate",
+        "uuid": 6172176,
+        "checksum": "h9p6a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
